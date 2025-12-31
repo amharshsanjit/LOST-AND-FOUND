@@ -5,7 +5,7 @@ CampusFound is a modern, student-friendly **Campus Lost & Found web application*
 It allows users to browse recently found items, search by category or keyword, and report lost items in seconds — all through a clean, responsive UI.
 
 🔗 **Live Working Demo:**  
-👉 https://amujjawalgupta.github.io/Found-and-Lost/
+👉 (http://127.0.0.1:5500/lostandfound6.html)
 
 ---
 
